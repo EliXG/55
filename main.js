@@ -1,1 +1,1 @@
-window.location.href="https://math.kazw.net/"
+window.location.href="https://gn-math.github.io/"
