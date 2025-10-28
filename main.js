@@ -1,1 +1,1 @@
-window.location.href="https://gn-math.github.io/"
+window.location.href="https://clever.college/"
