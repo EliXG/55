@@ -1,1 +1,1 @@
-window.location.href="https://clever.college/"
+window.location.href="https://share.google/n5BvtKTHXRAgpUwMD/"
