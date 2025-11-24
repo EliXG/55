@@ -1,1 +1,1 @@
-window.location.href="https://fantastic-spoon-44q7w95gw4wc444.github.dev/pf-signin?id=joyful-horse-h6gftgd&cluster=use&name=fantastic-spoon-44q7w95gw4wc444&port=3000&pb=https%3A%2F%2Ffantastic-spoon-44q7w95gw4wc444-3000.app.github.dev%2Fauth%2Fpostback%2Ftunnel%3Ftunnel%3D1&cid=684d9bbd-09f8-40e8-a024-7b45b4a9b734"
+window.location.href="https://github.dev/pf-signin?id=joyful-horse-h6gftgd&cluster=use&name=fantastic-spoon-44q7w95gw4wc444&port=3000&pb=https%3A%2F%2Ffantastic-spoon-44q7w95gw4wc444-3000.app.github.dev%2Fauth%2Fpostback%2Ftunnel%3Ftunnel%3D1"
