@@ -1,1 +1,1 @@
-window.location.href="https://github.dev/pf-signin?id=joyful-horse-h6gftgd&cluster=use&name=fantastic-spoon-44q7w95gw4wc444&port=3000&pb=https%3A%2F%2Ffantastic-spoon-44q7w95gw4wc444-3000.app.github.dev%2Fauth%2Fpostback%2Ftunnel%3Ftunnel%3D1"
+window.location.href="https://musical-dollop-pv7rpq4g67q2rrwj-3000.app.github.dev/"
